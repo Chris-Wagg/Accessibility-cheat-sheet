@@ -43,7 +43,8 @@
 -   should it be a link or a heading?
 
 -   groups of inline elements (eg: links) should be grouped in lists
--   -   this is important for popouts/ dialogues
+
+    -   this is important for popouts/ dialogues
 
 -   Check common problematic elements, like CAPTCHA, accessibility overlays, unexpected screen changes and Flash content
 
