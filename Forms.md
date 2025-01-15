@@ -46,4 +46,14 @@ use native HTML controls and behaviour
 
 -   Most browsers will have default focuses for elements, try not to mess with these.
 
--   If anything you can try to enhance them but it's bad practice to remove them
+-   If anything you can try to enhance them (eg: make boarders bolder) but it's bad practice to remove them
+
+## Required fields
+
+-   use the required attribute in the input tag
+-   to indicate to users use something like an asterisk or put required in the label
+
+```
+<label for="email">Email (required)</label>
+<input type="email" id="email" name="email" required>
+```
