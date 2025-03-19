@@ -24,3 +24,17 @@
 -   Screen readers were built with specific browsers in mind and work bst with those specific ones
 
 ![Table with screen reader and browser pairings](image.png)
+
+Resources such as [HTML5 Accessibility](https://stevefaulkner.github.io/HTML5accessibility/), [Accessibility Support](https://a11ysupport.io/), and [WCAG's Custom Control Accessible Development Checklist](https://w3c.github.io/using-aria/#checklist) help us to better understand current browser and AT device support, and even when to use ARIA in the first place.
+
+## Other considerations
+
+-   Frameworks, CMS's and other things may cause limitations to which patterns you can use
+
+    -   Performance
+    -   Security
+    -   SEO
+    -   Language translation support
+    -   Third-party integrations
+
+-   Make sure pattern choice is accessible for both users and developers.
