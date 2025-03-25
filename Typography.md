@@ -16,7 +16,7 @@
 -   Try to use common font sizes and try to avoid italic fonts. Too small text or certain italic fonts may make it harder to read
 
 [!IMPORTANT]
-**_ use `rem` for font sizing, this will make the font size relative to the browser settings _**
+use `rem` for font sizing, this will make the font size relative to the browser settings
 
 -   Best practice is to use asterisks, dashes, or highlighting to emphasize words if needed
 
