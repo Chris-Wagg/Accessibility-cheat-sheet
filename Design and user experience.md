@@ -35,8 +35,8 @@
 
 ### Disability simulators
 
-[!Caution]
-**_Use with extreme cauton_**
+> [!Caution]
+> Use with extreme cauton
 
 -   Can lead to wrong outcomes
 -   Better to learn from people with first hand knowledeg or experience

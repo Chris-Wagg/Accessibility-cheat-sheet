@@ -24,7 +24,8 @@
 -   When using something like an SVG, you might need to add `role=img` to make sure AT's pick up on them.
 -   You can also add a `<title>` to an SVG to add a descriptive text sort of thing.
 
-**_ Some users still want to hear descriptions of images, if in doubt just add alt text and the user can skip it if they want _**
+> [!NOTE]
+> Some users still want to hear descriptions of images, if in doubt just add alt text and the user can skip it if they want
 
 ## Functional images
 

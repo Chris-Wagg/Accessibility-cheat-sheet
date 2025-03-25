@@ -17,8 +17,8 @@
 
     -   [Check out a whole lot of resources here](https://web.dev/learn/accessibility/patterns#established_resources)
 
-[!IMPORTANT]
-**_Don't just copy paste and assume it will work, take time to understand it and test as much as possible!_**
+> [!IMPORTANT]
+> Don't just copy paste and assume it will work, take time to understand it and test as much as possible!
 
 ## Browsers and AT support
 

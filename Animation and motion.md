@@ -20,7 +20,7 @@ https://www.w3.org/TR/WCAG22/#three-flashes-or-below-threshold
 
 -   Any animation should be used cautiously. Ideally a user hsould be able ot control the animation with a pause and play button. Generally better to not have animations if possible
 
-[!WARNING]
-**some OS' require opt in while some require opt out, be careful relying only on @prefers-reduced-motion**
+> [!WARNING]
+> some OS' require opt in while some require opt out, be careful relying only on @prefers-reduced-motion
 
 -   You can se multiple medai queries to give more choices, eg: `@prefers-color-scheme`, `@prefers-contrast`, and `@prefers-reduced-motion`
