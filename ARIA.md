@@ -6,25 +6,25 @@
 
 ## 5 rules of ARIA
 
-1. Don't use ARIA
+1. **_Don't use ARIA_**
 
--   no ARIA is better than bad aria. use semantic HTML first
+    - no ARIA is better than bad aria. use semantic HTML first
 
-2. Don't add unnecessary ARIA
+2. **_Don't add unnecessary ARIA_**
 
--   Again, use semantic HTML, most of the time it will do what you need it to without adding ARIA
+    - Again, use semantic HTML, most of the time it will do what you need it to without adding ARIA
 
-3. Always support keyboard navigation
+3. **_Always support keyboard navigation_**
 
--   all interactive controls must be keyboard accessible. Use `tabindex='0'` to add it to the focus order. Avoid using positive integers with tabindex to stop any focus order issues
+    - all interactive controls must be keyboard accessible. Use `tabindex='0'` to add it to the focus order. Avoid using positive integers with tabindex to stop any focus order issues
 
-4. Don't hide focusable elements
+4. **_Don't hide focusable elements_**
 
--   dont add `role='presentation` or `aria-hidden=true` to elements that need focus. This will skip the elements and be bad for assistive tech
+    - dont add `role='presentation` or `aria-hidden=true` to elements that need focus. This will skip the elements and be bad for assistive tech
 
-5. Use accessible names for interactive elements
+5. **_Use accessible names for interactive elements_**
 
--   make sure interactive elements have accessible names. eg buttons with inner text, labels are used correctly, images have good alt text etc...
+    - make sure interactive elements have accessible names. eg buttons with inner text, labels are used correctly, images have good alt text etc...
 
 ## Aria labels
 
