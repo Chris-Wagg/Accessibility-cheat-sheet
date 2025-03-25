@@ -24,4 +24,14 @@
 
 ### Can't be automated
 
--
+-   Color contrast of text on gradients/images
+-   Image alternative text is accurate and is properly assigned
+-   Headings, lists, and landmarks are correctly marked-up and all elements are accounted for
+-   ARIA is being used appropriately and applied to the correct element(s)
+-   Which elements are missing keyboard focus, the focus order makes logical sense, and the focus indicator is visible
+-   iFrame, the focus order makes logical sense, and the focus indicator is visible
+-   Video element has appropriate alternative media present (such as captions and transcripts)
+
+## Types of manual testing
+
+3 big focuses 1. keyboard functionality 2. visually-focused reviews 3. general content checks
